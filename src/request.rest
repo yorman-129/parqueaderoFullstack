@@ -1,0 +1,15 @@
+GET http://localhost:3001/api/parqueadero
+
+
+
+
+##POST http://localhost:3001/api/parqueadero
+##Content-Type: application/json
+
+##{
+  ##  "placa": "hgf56",
+    ##"horaIngreso": "Fri May 30 2022 10:40:07",
+    ##"valor": 0
+##}
+
+DELETE  http://localhost:3001/api/parqueadero/1
